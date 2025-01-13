@@ -39,3 +39,4 @@ function AddressBook() {
   Contact.prototype.fullName = function() {
     return this.firstName + " " + this.lastName;
   };
+  
